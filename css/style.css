@@ -1,0 +1,18 @@
+h1 {
+    color: grey;
+    text-align: center;
+    font-family: cursive;
+}
+
+h2 {
+    color: grey
+}
+
+section {
+    color: navy;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+}
